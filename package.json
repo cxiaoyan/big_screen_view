@@ -1,0 +1,15 @@
+{
+  "name": "screen",
+  "author": "wb-zxc254305",
+  "version": "0.1.0",
+  "description": "行政大屏中的iframe",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.alibaba-inc.com:platform/admin_big_screen_frame.git"
+  },
+  "dependencies": {
+    "gulp": "~3.9.1",
+    "anywhere": "~1.4.0",
+    "gulp-less":"~3.0.1"
+  }
+}
